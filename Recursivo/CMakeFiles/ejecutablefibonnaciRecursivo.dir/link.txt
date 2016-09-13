@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/ejecutablefibonnaciRecursivo.dir/fibonacciRecursivo.cpp.o  -o ejecutablefibonnaciRecursivo -rdynamic 
